@@ -1,4 +1,4 @@
-module github.com/CompeyDev/wsl-archlinux-manager
+module github.com/Naymmmm/wsl-archlinux-manager-compiled
 
 go 1.19
 
