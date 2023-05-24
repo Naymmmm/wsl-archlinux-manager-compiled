@@ -1,4 +1,3 @@
-
 # Arch Linux WSL Manager
 
 **WIP: An efficient & easy strategy to install and manage Arch Linux instances on Windows Subsystem For Linux (WSL). Precompiled with instructions for the lazy people.**
@@ -32,3 +31,8 @@ cd src
 go build
 ```
 3. Run ```src.exe```. There you have it! Enjoy.
+
+**THIS HASN'T BEEN UPDATED IN A WHILE ! ! !**
+**ALWAYS RUN PACMAN -SYU AFTER INSTALLATION ! ! !**
+**Window managers haven't been tested!**
+**I hold no responsibility on any destruction done to your system.**
