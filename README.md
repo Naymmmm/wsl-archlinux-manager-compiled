@@ -1,4 +1,4 @@
-# Arch Linux WSL Manager
+# Arch Linux WSL Manager But Compiled
 
 **WIP: An efficient & easy strategy to install and manage Arch Linux instances on Windows Subsystem For Linux (WSL). Precompiled with instructions for the lazy people.**
 
